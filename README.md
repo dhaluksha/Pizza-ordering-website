@@ -1,2 +1,3 @@
 # Pizza-ordering-website
-Pizza ordering website built using PHP and MySQL for first year group project
+Responsive e-commerce pizza ordering website project using PHP & Mysql
+
